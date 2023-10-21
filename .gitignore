@@ -1,0 +1,32 @@
+# Arquivos compilados Java
+*.class
+
+# Arquivos JAR e WAR
+*.jar
+*.war
+
+# Arquivos de dependência
+/lib/
+
+# Arquivos de construção
+/bin/
+/target/
+
+# Arquivos de IDE específicos, como Eclipse ou IntelliJ
+.idea/
+*.iml
+*.iws
+*.ipr
+
+# Arquivos de log
+*.log
+
+# Arquivos temporários
+*.tmp
+
+# Arquivos de configuração do sistema
+.classpath
+.project
+
+# Diretório de saída
+out/
